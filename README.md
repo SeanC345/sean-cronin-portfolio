@@ -6,8 +6,8 @@ Welcome to my portfolio repository. I am a dedicated student in Computer Securit
 
 ## 🌐 Live Portfolio Website
 You can view the live version of this portfolio here:  
-🔗 **https://yourusername.github.io/sean-cronin-portfolio/**  
-*(Replace `yourusername` with your actual GitHub username)*
+🔗 **https://SeanC345.github.io/sean-cronin-portfolio/**  
+
 
 ---
 
@@ -47,9 +47,8 @@ A digital forensics investigation analyzing a floppy disk image to extract and v
 
 ## 📬 Contact
 
-**Email:** your-email@example.com  
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)
+**Email:** seancronin345@gmail.com  
+**GitHub:** [github.com/SeanC345](https://github.com/SeanC345)
 
-*(Update the placeholders above with your actual contact info)*
 
 ---
